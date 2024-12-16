@@ -25,4 +25,4 @@ Download the dataset from the following link:
 ## 4. Results
 
 The key experimental results of this project can be found in the blog post on Medium:  
-[Medium Blog](https://medium.com/p/bc10c6c7d67f/edit)
+[Medium Blog]([https://medium.com/p/bc10c6c7d67f/edit](https://medium.com/@starchen12cx/using-tensorflow-to-implement-cnn-for-dogs-and-cats-image-classification-bc10c6c7d67f))
